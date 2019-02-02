@@ -19,6 +19,7 @@ A preview link of the song from Spotify
 The album that the song is from
 
 * ![picture](./assets/liri.js concert-this.JPG)
+
 * ![picture](./assets/liri.js Spotify.JPG)
 
 node liri.js movie-this '<movie name here>'
